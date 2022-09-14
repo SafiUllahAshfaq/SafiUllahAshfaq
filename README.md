@@ -1,6 +1,6 @@
 ## Hi there 👋 Safi Ullah here 😄 from 🇵🇰
 
-A full-stack back-end focused engineer who loves to design and architect solutions that enable people to get rid of conventional time taking manual tasks.
+Making dumb computers smart 😉
 
 <a href="https://www.linkedin.com/in/safi-ullah-ashfaq/">
     <img src="https://img.shields.io/badge/SafiUllah-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
