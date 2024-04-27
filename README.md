@@ -1,4 +1,4 @@
-## Hi there 👋 Safi Ullah here 😄 from 🇵🇰
+## Hi there 👋 Safi Ullah here
 
 Making dumb computers smart 😉
 
